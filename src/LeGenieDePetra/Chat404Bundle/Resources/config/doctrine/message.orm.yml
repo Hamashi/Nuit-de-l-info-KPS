@@ -1,0 +1,18 @@
+LeGenieDePetra\Chat404Bundle\Entity\message:
+    type: entity
+    table: null
+    repositoryClass: LeGenieDePetra\Chat404Bundle\Repository\messageRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        type:
+            type: string
+            length: 255
+        message:
+            type: string
+            length: 255
+    lifecycleCallbacks: {  }

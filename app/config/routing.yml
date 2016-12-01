@@ -1,0 +1,7 @@
+le_genie_de_petra_chat404:
+    resource: "@LeGenieDePetraChat404Bundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
