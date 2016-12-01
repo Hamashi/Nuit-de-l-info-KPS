@@ -1,0 +1,19 @@
+LeGenieDePetra\mainBundle\Entity\pret:
+    type: entity
+    table: null
+    repositoryClass: LeGenieDePetra\mainBundle\Repository\pretRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        somme:
+            type: integer
+        empreinteur:
+            type: string
+            length: 255
+        date:
+            type: date
+    lifecycleCallbacks: {  }

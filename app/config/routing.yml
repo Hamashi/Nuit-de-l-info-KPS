@@ -1,3 +1,7 @@
+le_genie_de_petramain:
+    resource: "@LeGenieDePetramainBundle/Resources/config/routing.yml"
+    prefix:   /
+
 le_genie_de_petra_chat404:
     resource: "@LeGenieDePetraChat404Bundle/Resources/config/routing.yml"
     prefix:   /

@@ -1,0 +1,3 @@
+le_genie_de_petramain_homepage:
+    path:     /
+    defaults: { _controller: LeGenieDePetramainBundle:Default:index }
