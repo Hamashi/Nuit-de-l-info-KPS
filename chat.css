@@ -1,0 +1,29 @@
+#chat {
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	width: 60%;
+}
+
+#messages {
+	margin-bottom: 10px;
+	overflow: auto;
+	height: 300px;
+}
+
+.message1, .message0 {
+	margin: 0px;
+	padding : 2px;
+}
+
+.message1 {
+	background-color: #99b4d2;
+	text-align: right;
+}
+
+#message {
+	width: 80%;
+}
+
+#send {
+}

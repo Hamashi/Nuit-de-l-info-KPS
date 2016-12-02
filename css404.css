@@ -1,0 +1,66 @@
+body
+{
+	/*background-color: #00aaff;		/*#222244 "bleu roi"(pas vraiment), #224422 vert tapis de billard, #0033ff bleu ciel*/
+	background-image: url(image_desert.jpg);
+	background-attachment:fixed;
+}
+
+h1
+{
+	color: #cc7700;
+  text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+p
+{
+	color: #114400;
+  /*text-align: center;*/
+	font-size: 16pt;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/*#chat+genie
+{
+	!*text-align: center;*!
+	vertical-align: middle;
+}
+*/
+#cont{
+	width:100%;
+	display: inline-block;
+}
+/*
+#partiegauche
+{
+	width:50%;
+	!*padding-left: 5%;*!
+  !*padding-right: 30%;*!
+	!*float: left;*!
+}
+
+*/#chat
+{
+  color: yellow;
+	/*width:500px;*/
+	margin-left: 5px;
+	height: 400px;
+	font-family: Arial, Helvetica, sans-serif;
+}/*
+
+#partiedroite
+{
+	width: 50%;
+	padding-right:50%;
+	float: center;
+
+}*/
+
+
+/*#genie
+{
+	background-image: url(genie_de_la_lampe.jpg);
+	background-repeat: no-repeat;
+}*/
