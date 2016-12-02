@@ -15,7 +15,7 @@ voir_prets:
     
 ajouter_dette:
     path:     /user/ajouter/dette
-    defaults: { _controller: LeGenieDePetramainBundle:Default:ajouterdette }
+    defaults: { _controller: LeGenieDePetramainBundle:Default:ajouterpret }
 
     
 ajouter_pret:
