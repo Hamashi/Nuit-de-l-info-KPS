@@ -1,0 +1,3 @@
+le_genie_de_petra_chat404_homepage:
+    path:     /404
+    defaults: { _controller: LeGenieDePetraChat404Bundle:Default:index }

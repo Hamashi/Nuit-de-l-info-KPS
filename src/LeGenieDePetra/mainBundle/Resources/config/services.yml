@@ -1,0 +1,4 @@
+services:
+#    le_genie_de_petramain.example:
+#        class: LeGenieDePetra\mainBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

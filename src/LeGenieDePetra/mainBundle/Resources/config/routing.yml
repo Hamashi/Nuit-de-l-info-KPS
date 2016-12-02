@@ -1,0 +1,28 @@
+accueil:
+    path:     /
+    defaults: { _controller: LeGenieDePetramainBundle:Default:index }
+
+    
+voir_dettes:
+    path:     /user/dettes
+    defaults: { _controller: LeGenieDePetramainBundle:Default:voirdettes }
+
+    
+voir_prets:
+    path:     /user/prets
+    defaults: { _controller: LeGenieDePetramainBundle:Default:voirprets }
+
+    
+ajouter_dette:
+    path:     /user/ajouter/dette
+    defaults: { _controller: LeGenieDePetramainBundle:Default:ajouterpret }
+
+    
+ajouter_pret:
+    path:     /user/ajouter/pret
+    defaults: { _controller: LeGenieDePetramainBundle:Default:ajouterpret}
+
+    
+accueil_user:
+    path:     /user/accueil
+    defaults: { _controller: LeGenieDePetramainBundle:Default:indexuser }

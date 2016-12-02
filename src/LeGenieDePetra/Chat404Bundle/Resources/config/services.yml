@@ -1,0 +1,4 @@
+services:
+#    le_genie_de_petra_chat404.example:
+#        class: LeGenieDePetra\Chat404Bundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
